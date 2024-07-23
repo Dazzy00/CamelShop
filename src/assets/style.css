@@ -57,9 +57,3 @@ a:link, a:visited {
     border: 3px;
     padding: 10px;
   }
-  button{
-    cursor: pointer;
-  }
-  li{
-    list-style-type: none;
-  }
